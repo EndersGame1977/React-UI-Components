@@ -1,1 +1,16 @@
 /* All styles for your Card Components live here */
+.card-banner img {
+    width: 585px;
+}
+
+.card-container {
+    width: 585px;
+}
+
+.card-content {
+    text-align: left;
+}
+
+.card-title {
+    width: 585px;
+}

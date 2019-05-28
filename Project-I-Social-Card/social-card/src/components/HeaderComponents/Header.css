@@ -1,1 +1,19 @@
 /* All styles for your header Components live here */
+.header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.header-content,
+.header-title {
+    text-align: left;
+}
+
+.header-title {
+    width: 585px;
+}
+
+.image-thumbnail img {
+    width: 100px;
+}
