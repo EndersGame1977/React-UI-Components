@@ -1,0 +1,38 @@
+body {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin: 100px auto;
+    display: flex;
+    flex-flow: row wrap;
+    width: 400px;
+    height: 600px;
+    height: 100px;
+}
+
+.four {
+    width: 97.5%;
+    height: 100%;
+    border: 1px solid black;
+    text-align: right;
+    font-size: 93px;
+}
+
+.three {
+    width: 73%;
+    height: 100%;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.one {
+    width: 24%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.red {
+    background-color: red;
+}
