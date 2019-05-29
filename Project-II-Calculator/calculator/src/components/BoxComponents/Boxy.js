@@ -5,7 +5,7 @@ const Boxy = (props) => {
     console.log(props)
     return (
         <div className={props.box.boxClass}>
-            {props.box.content}
+            <p>{props.box.content}</p>
         </div >
     );
 }
